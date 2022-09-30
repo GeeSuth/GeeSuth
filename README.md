@@ -40,8 +40,7 @@
 
 <br>
 
-<!-- Most Used Languages -->
-<img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=GeeSuth&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=radical" alt="GeeSuth"/>
+
 
 <img src="https://activity-graph.herokuapp.com/graph?username=GeeSuth&theme=xcode" alt="GeeSuth"/>
 
